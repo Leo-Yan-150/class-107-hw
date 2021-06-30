@@ -39,3 +39,8 @@ padding:6px;
 border-radius:10px;
 background-color:white;
 }
+#captured_image{
+  margin-top:30px;
+  width:350;
+  height:250;
+  }
